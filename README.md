@@ -31,6 +31,10 @@ This repository contains the resources for the *Introduction to Text Analytics* 
 
 11:45 - 12:00 Outro and Outlook (Sam = Martin)
 
+# Further Resources
+
+The [*Language Technology and Data Analysis Laboratory* (LADAL)]([ladal.edu.au](https://ladal.edu.au/)) offers a lot more resources on a variety of [text analytics](https://ladal.edu.au/tutorials.html#5_Text_Analytics), [TA tools](https://ladal.edu.au/tools.html), and [analysing language data more boradly](https://ladal.edu.au/tutorials.html) for both absulute beginners to advanced researchers in this area (mostly using R). 
+
 # Contact
 
 Martin Schweinberger (email: m.schweinberger@uq.edu.au)
