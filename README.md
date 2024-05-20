@@ -4,7 +4,7 @@
 # Text Analytics Workshop (UQ Digital Cultures and Societies Hub)
 This repository contains the resources for the *Introduction to Text Analytics* workshop offered by the [Digital Cultures and Societies Hub](https://hass.uq.edu.au/Digital-Cultures-and-Societies) by Martin Schweinberger and Sam Hames (both [School of Languages and Cultures](https://languages-cultures.uq.edu.au/)) on 23 and 24 May, 2024.
 
-![Link to this repo](https://slcladal.github.io/images/uq1.jpg)
+![Link to this repo](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/qr_ta_ws.png)
 
 
 # Timeline
