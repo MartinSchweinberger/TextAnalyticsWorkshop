@@ -16,7 +16,7 @@ This repository contains the resources for the *Introduction to Text Analytics* 
 
 9:10 - 10:10 Practice: Why Text Analaytics? (Sam) (data)
 
-10:10 - 10:30 Presentation: What is Text Analaytics? (Martin) (slides)
+10:10 - 10:30 Presentation: What is Text Analaytics? (Martin) ([slides](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/DCS_TextAnalytics.pdf))
 
 10:30 - 10:45 Tea Break 
 
