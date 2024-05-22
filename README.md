@@ -36,7 +36,7 @@ This repository contains the resources for the *Introduction to Text Analytics* 
 
 11:15 - 11:45 Thinking about Data Management (Sam) 
 
-11:45 - 12:00 Outro and Outlook (Sam = Martin)
+11:45 - 12:00 Outro and Outlook (Sam + Martin)
 
 # Further Resources
 
