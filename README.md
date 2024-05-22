@@ -14,19 +14,19 @@ This repository contains the resources for the *Introduction to Text Analytics* 
 
 9:00 - 9:10 Introduction (Sam)
 
-9:10 - 10:10 Practice: Why Text Analaytics? (Sam) (data)
+9:10 - 10:10 Practice: Why Text Analaytics? (Sam) (onsite materials: HANSARD speeches print out, online materials: [data: HANSARD speeches](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/hansard_speeches.zip), [word list: house](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/house.csv), [word list: senate](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/senate.csv))
 
 10:10 - 10:30 Presentation: What is Text Analaytics? (Martin) ([slides](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/DCS_TextAnalytics.pdf))
 
 10:30 - 10:45 Tea Break 
 
-10:45 - 11:30 Practice: Concordancing and KWICs (Martin)
+10:45 - 11:30 Practice: Concordancing and KWICs (Martin, [data: HANSARD speeches](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/hansard_speeches.zip))
 
-11:30 - 12:00 Activity: Sentiments of Movie Reviews (Martin, onsite materials: reviews) 
+11:30 - 12:00 Activity: Sentiments and Keywords of Movie Reviews (Martin, onsite materials: reviews) 
 
 **Day 2 (Friday, 24 May)**
 
-9:00 - 9:45 Practice: Sentiment Analysis Tool (Martin) ([data: negative reiviews](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/reviews_neg.zip), [data: positive reiviews](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/reviews_pos.zip), [link to tool](https://binderhub.atap-binder.cloud.edu.au/v2/gh/SLCLADAL/interactive-notebooks-environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Finteractive-notebooks%26urlpath%3Dlab%252Ftree%252Finteractive-notebooks%252Fnotebooks%252Fsentool.ipynb%26branch%3Dmain))
+9:00 - 9:45 Practice: Sentiment Analysis Tool and Keyword Tool (Martin) ([data: negative reiviews](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/reviews_neg.zip), [data: positive reiviews](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/reviews_pos.zip), [link to sentiment tool](https://binderhub.atap-binder.cloud.edu.au/v2/gh/SLCLADAL/interactive-notebooks-environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Finteractive-notebooks%26urlpath%3Dlab%252Ftree%252Finteractive-notebooks%252Fnotebooks%252Fsentool.ipynb%26branch%3Dmain), [link to keyword tool](https://binderhub.atap-binder.cloud.edu.au/v2/gh/SLCLADAL/interactive-notebooks-environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Finteractive-notebooks%26urlpath%3Dlab%252Ftree%252Finteractive-notebooks%252Fnotebooks%252Fkeytool.ipynb%26branch%3Dmain))
 
 9:45 - 10:30 Activity: Manual Topic Modelling (Martin, onsite materials: words)
 
