@@ -3,7 +3,7 @@
 
 # ATAP/LADAL Text Analytics Workshop
 
-<img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/image/blob/main/qr_ta_ws.png?raw=true">
+<img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/images/blob/main/qr_ta_ws.png?raw=true">
 
 This repository contains the resources for the ATAP/LADAL workshop *Introduction to Text Analytics* organised by the [Digital Cultures and Societies Hub](https://hass.uq.edu.au/Digital-Cultures-and-Societies) convened by Martin Schweinberger and Sam Hames (both [School of Languages and Cultures](https://languages-cultures.uq.edu.au/)) on 23 and 24 May, 2024.
 
@@ -40,11 +40,11 @@ This repository contains the resources for the ATAP/LADAL workshop *Introduction
 
 # Further Resources
 
-<img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/image/blob/main/ATAPlogo.png?raw=true">
+<img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/images/blob/main/ATAPlogo.png?raw=true">
 
 The [**Australian Text Analytics Platform** (ATAP)](https://www.atap.edu.au/) is a collaborative, cloud-based workbench environment, bringing together users and providers of data and text analytics tools. It encourages researchers to adopt new methods, leading to greater flexibility and transparency in research workflows. ATAP projects including the [*Language Technology and Data Analysis Laboratory* (LADAL)]([ladal.edu.au](https://ladal.edu.au/)) are accessible to researchers with a broad range of experience and skills (including beginners) and across a range of disciplines. Support provided by the platform includes hands-on workshops, online training modules and online office hours, as well as advice and collaboration in selected partnerships.
 
-<img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/image/blob/main/LADAL Grey background.png?raw=true">
+<img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/images/blob/main/LADAL Grey background.png?raw=true">
 
 The [**Language Technology and Data Analysis Laboratory** (LADAL)]([ladal.edu.au](https://ladal.edu.au/)) is part of ATAP and it represents is a free, open-source, collaborative support infrastructure for digital and computational humanities. LADAL aims at assisting anyone interested in working with language data in matters relating to data processing, visualization, and analysis and offers guidance on matters relating to language technology and digital research tools. LADAL offers a lot more resources on a variety of [text analytics](https://ladal.edu.au/tutorials.html#5_Text_Analytics), [TA tools](https://ladal.edu.au/tools.html), and [analysing language data more boradly](https://ladal.edu.au/tutorials.html) for both absulute beginners to advanced researchers in this area (mostly using R). 
 
