@@ -20,7 +20,7 @@ This repository contains the resources for the *Introduction to Text Analytics* 
 
 10:30 - 10:45 Tea Break 
 
-10:45 - 11:30 Practice: Concordancing and KWICs (Martin, [link to tool](https://binderhub.atap-binder.cloud.edu.au/v2/gh/SLCLADAL/interactive-notebooks-environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Finteractive-notebooks%26urlpath%3Dlab%252Ftree%252Finteractive-notebooks%252Fnotebooks%252Fkwictool.ipynb%26branch%3Dmain) [data: HANSARD speeches](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/hansard_speeches.zip))
+10:45 - 11:30 Practice: Concordancing and KWICs (Martin, [link to tool](https://binderhub.atap-binder.cloud.edu.au/v2/gh/SLCLADAL/interactive-notebooks-environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Finteractive-notebooks%26urlpath%3Dlab%252Ftree%252Finteractive-notebooks%252Fnotebooks%252Fkwictool.ipynb%26branch%3Dmain) and [data: HANSARD speeches](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/data/hansard_speeches.zip))
 
 11:30 - 12:00 Activity: Sentiments and Keywords of Movie Reviews (Martin, onsite materials: reviews) 
 
