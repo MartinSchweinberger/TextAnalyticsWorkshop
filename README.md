@@ -5,7 +5,7 @@
 
 <img align="right" width="300" src="https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/blob/main/images/qr_ta_ws.png?raw=true">
 
-This repository contains the resources for the ATAP/LADAL workshop *Introduction to Text Analytics* organised by the [Digital Cultures and Societies Hub](https://hass.uq.edu.au/Digital-Cultures-and-Societies) convened by Martin Schweinberger and Sam Hames (both [School of Languages and Cultures](https://languages-cultures.uq.edu.au/)) on 23 and 24 May, 2024.
+This repository contains the resources for the ATAP/LADAL workshop *Introduction to Text Analytics* organised by the [**Digital Cultures and Societies Hub**](https://hass.uq.edu.au/Digital-Cultures-and-Societies) convened by Martin Schweinberger and Sam Hames (both [School of Languages and Cultures](https://languages-cultures.uq.edu.au/)) on 23 and 24 May, 2024.
 
 
 # Timeline
