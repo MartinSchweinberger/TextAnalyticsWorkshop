@@ -50,7 +50,7 @@ The [**Language Technology and Data Analysis Laboratory** (LADAL)](https://ladal
 
 **COVID paper** mentioned during the workshop: [Schweinberger, Martin, Michael Haugh, & Sam Hames. 2021. Analysing discourse around COVID-19 in the Australian Twittersphere: A real-time corpus-based analysis. Big Data & Society 8(1). (https://doi.org/10.1177/20539517211021437)](https://journals.sagepub.com/doi/full/10.1177/20539517211021437)
 
-**Word-Emotion Association Dictonary** paper: [Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word–emotion association lexicon. Computational intelligence, 29(3), 436-465.]((https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/Mohammad Turney 2013 Crowdsourcing a Word-Emotion Association Lexicon.pdf))
+**Word-Emotion Association Dictonary** paper: [Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word–emotion association lexicon. Computational intelligence, 29(3), 436-465.](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop/raw/main/Mohammad Turney 2013 Crowdsourcing a Word-Emotion Association Lexicon.pdf)
 
 # Contact
 
