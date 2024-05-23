@@ -41,7 +41,8 @@ This repository contains the resources for the *Introduction to Text Analytics* 
 # Further Resources
 
 The [*Language Technology and Data Analysis Laboratory* (LADAL)]([ladal.edu.au](https://ladal.edu.au/)) offers a lot more resources on a variety of [text analytics](https://ladal.edu.au/tutorials.html#5_Text_Analytics), [TA tools](https://ladal.edu.au/tools.html), and [analysing language data more boradly](https://ladal.edu.au/tutorials.html) for both absulute beginners to advanced researchers in this area (mostly using R). 
-COVID paper mentioned during the workshop: [Schweinberger, Martin, Michael Haugh, & Sam Hames. 2021. Analysing discourse around COVID-19 in the Australian Twittersphere: A real-time corpus-based analysis. Big Data & Society 8(1). (https://doi.org/10.1177/20539517211021437)](https://journals.sagepub.com/doi/full/10.1177/20539517211021437)
+
+**COVID paper** mentioned during the workshop: [Schweinberger, Martin, Michael Haugh, & Sam Hames. 2021. Analysing discourse around COVID-19 in the Australian Twittersphere: A real-time corpus-based analysis. Big Data & Society 8(1). (https://doi.org/10.1177/20539517211021437)](https://journals.sagepub.com/doi/full/10.1177/20539517211021437)
 
 # Contact
 
